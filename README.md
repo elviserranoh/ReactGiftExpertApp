@@ -1,2 +1,2 @@
-# Getting Started with Create React App
+# GifExpertApp
 Una pequeña aplicación hecha en React con Hooks par buscar y mostrar gifs animados.
