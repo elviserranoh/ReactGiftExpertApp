@@ -1,2 +1,3 @@
 # GifExpertApp
-Una pequeña aplicación hecha en React con Hooks par buscar y mostrar gifs animados.
+* A small application to developed in ReactJS using Hooks for search and show GIFs animate from giphy
+* URL: https://elviserranoh.github.io/ReactGiftExpertApp/
